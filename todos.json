@@ -1,0 +1,26 @@
+{
+  "counter": 2,
+  "todos": [
+    {
+      "id": 1,
+      "text": "Test Todo",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "text": "Test Todo 2",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "text": "this is some kind of changed text",
+      "complete": false,
+      "completed": true
+    },
+    {
+      "id": 4,
+      "text": "testing testing 123",
+      "complete": false
+    }
+  ]
+}
